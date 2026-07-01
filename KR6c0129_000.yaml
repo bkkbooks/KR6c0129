@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0129/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普遍智藏般若波羅蜜多心經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0252.xml
+    old_id: T08n0252
+hash: sha256:f9a9b9b583ef16015b5e3fc9e49778ad9fccf7aab44e5e1d0352456ad5049297
